@@ -1,7 +1,7 @@
 ## Blog-App
-  npm i
-  npm start
+  # To install -> npm i
+  # To start -> npm start
 
 ## For DB
- npm i json-server
- npx json-server --watch data/db.json --port 8000 
+  # To install ->  npm i json-server
+  # To start -> npx json-server --watch data/db.json --port 8000 
